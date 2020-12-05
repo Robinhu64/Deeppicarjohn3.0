@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fotos</folder>
+	<filename>IMG_20201204_115634.jpg</filename>
+	<path>C:\Users\huygh\Desktop\Fotos\IMG_20201204_115634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30-bord</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>1053</ymin>
+			<xmax>2449</xmax>
+			<ymax>2544</ymax>
+		</bndbox>
+	</object>
+</annotation>
