@@ -1,0 +1,26 @@
+<annotation>
+	<folder>foto_s resized</folder>
+	<filename>IMG_20201204_115757.jpg</filename>
+	<path>C:\Users\huygh\Desktop\foto_s resized\IMG_20201204_115757.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop-bord</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>117</ymin>
+			<xmax>232</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
