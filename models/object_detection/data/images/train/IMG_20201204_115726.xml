@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Fotos</folder>
+	<folder>foto_s resized</folder>
 	<filename>IMG_20201204_115726.jpg</filename>
-	<path>C:\Users\huygh\Desktop\Fotos\IMG_20201204_115726.jpg</path>
+	<path>C:\Users\huygh\Desktop\foto_s resized\IMG_20201204_115726.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1291</xmin>
-			<ymin>1719</ymin>
-			<xmax>1916</xmax>
-			<ymax>2349</ymax>
+			<xmin>129</xmin>
+			<ymin>126</ymin>
+			<xmax>187</xmax>
+			<ymax>174</ymax>
 		</bndbox>
 	</object>
 </annotation>
