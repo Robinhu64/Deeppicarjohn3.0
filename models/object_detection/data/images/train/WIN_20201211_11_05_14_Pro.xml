@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Camera Roll</folder>
+	<filename>WIN_20201211_11_05_14_Pro.jpg</filename>
+	<path>C:\Users\huygh\Pictures\Camera Roll\WIN_20201211_11_05_14_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop-bord</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>129</ymin>
+			<xmax>195</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
